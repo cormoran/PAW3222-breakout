@@ -13,3 +13,5 @@ I've never assembled it. I don't know whether it works or not!
 ![](kicad_projects/PAW3220LU-breakout/img/pcb-front.png)
 
 ![](kicad_projects/PAW3220LU-breakout/img/pcb-bottom.png)
+
+![](img/paw3222.jpeg)
